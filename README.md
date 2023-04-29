@@ -6,7 +6,7 @@ This repository uses `yt-dlp` and [OpenAI's Whisper](https://openai.com/blog/whi
 
 To get started, you'll need Python 3.7 or newer. Install the binary by running the following command:
 
-    pip install git+git@github.com:EAMehdi/yt-whisper.git
+    pip install git+https://github.com/EAMehdi/yt-whisper.git
 
 You'll also need to install [`ffmpeg`](https://ffmpeg.org/), which is available from most package managers:
 
